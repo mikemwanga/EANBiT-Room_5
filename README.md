@@ -16,8 +16,8 @@ Project :EANBiT\
 Photo : \
 
 
-Name: Davis Kiberu
-Institution: Makerere University
-Position: MSC Student (Bioinformatics)  
-Project: BReCA
-Photo:  
+Name: Davis Kiberu\
+Institution: Makerere University\
+Position: MSC Student (Bioinformatics)\  
+Project: BReCA\
+Photo:\  
