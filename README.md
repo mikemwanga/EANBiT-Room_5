@@ -13,7 +13,7 @@ Photo :
 
 Name: **Kakembo Fredrick Elishama**\
 Institution: _Makerere University_\
-Position: MSc. Student Bioinformatics
+Position: MSc. Student Bioinformatics\
 Project: EANBiT\
 Photo: 
 
@@ -26,8 +26,10 @@ Project :EANBiT\
 Photo : \
 ![Ruth](https://avatars0.githubusercontent.com/u/55382239?s=60&v=4)
 
-Name: **Davis Kiberu**   
-Institution: Makerere University   
-Position: MSC Student (Bioinformatics)   
-Project: BReCA   
+---
+
+Name: **Davis Kiberu**\
+Institution: Makerere University\  
+Position: MSC Student (Bioinformatics)\  
+Project: BReCA \
 =======
