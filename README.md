@@ -9,6 +9,15 @@ Position  : MSC Student (Bioinformatics)\
 Project :EANBiT\
 Photo : 
 
+---
+
+Name: **Kakembo Fredrick Elishama**\
+Institution: _Makerere University_\
+Position: MSc. Student Bioinformatics
+Project: EANBiT\
+Photo: 
+
+---
 
 Name : **Ruth Nanjala** \
 Institution : Pwani University\
