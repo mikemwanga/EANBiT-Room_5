@@ -14,7 +14,7 @@ Institution : Pwani University\
 Position  : MSC Student (Bioinformatics)\
 Project :EANBiT\
 Photo : \
-!(Ruth)[https://github.com/account]
+
 
 Name: Davis Kiberu
 Institution: Makerere University
