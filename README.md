@@ -3,14 +3,14 @@ A repo of EANBiT room 5 members
 
 ## Participant's Details
 
-1.Name : Mike Mwanga \
+Name : **Mike Mwanga** \
 Institution : Pwani University\
 Position  : MSC Student (Bioinformatics)\
 Project :EANBiT\
 Photo : 
 
 
-1.Name : Ruth Nanjala \
+Name : **Ruth Nanjala** \
 Institution : Pwani University\
 Position  : MSC Student (Bioinformatics)\
 Project :EANBiT\
@@ -18,7 +18,7 @@ Photo : \
 ![Ruth](https://avatars0.githubusercontent.com/u/55382239?s=60&v=4)
 
 
-1.Name: Davis Kiberu\
+Name: **Davis Kiberu**\
 Institution: Makerere University\
 Position: MSC Student (Bioinformatics) \ 
 Project: BReCA\
