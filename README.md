@@ -20,6 +20,6 @@ Photo : \
 
 Name: **Davis Kiberu**\
 Institution: Makerere University\
-Position: MSC Student (Bioinformatics) \ 
+Position: MSC Student (Bioinformatics)\ 
 Project: BReCA\
 Photo:  
