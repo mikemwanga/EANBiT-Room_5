@@ -15,7 +15,8 @@ Name: **Kakembo Fredrick Elishama**\
 Institution: _Makerere University_\
 Position: MSc. Student Bioinformatics\
 Project: EANBiT\
-Photo: 
+Photo: \
+![Fredrick](https://avatars3.githubusercontent.com/u/42891354?s=400&u=0128c8bd25e6f75602159677a2ab5c38c0d3e501&v=4)
 
 ---
 
